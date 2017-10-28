@@ -1,0 +1,42 @@
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\bin\Debug\3Dfunctions.exe.config
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\bin\Debug\3Dfunctions.exe
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\bin\Debug\3Dfunctions.pdb
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\MainWindow.g.cs
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\App.g.cs
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\3Dfunctions_MarkupCompile.cache
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\3Dfunctions_MarkupCompile.lref
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\MainWindow.baml
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\3Dfunctions.g.resources
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\_3Dfunctions.Properties.Resources.resources
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\3Dfunctions.csproj.GenerateResource.Cache
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\3Dfunctions.exe
+c:\users\eliran ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\3Dfunctions.pdb
+C:\Users\Eliran Ziv\documents\visual studio 2015\Projects\3Dfunctions\3Dfunctions\obj\Debug\3Dfunctions.csprojResolveAssemblyReference.cache
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\bin\Debug\3Dfunctions.exe.config
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.exe
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.pdb
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\bin\Debug\3Dfunctions.exe
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\bin\Debug\3Dfunctions.pdb
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.csprojResolveAssemblyReference.cache
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\MainWindow.g.cs
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\App.g.cs
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions_MarkupCompile.cache
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions_MarkupCompile.lref
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\MainWindow.baml
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.g.resources
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\_3Dfunctions.Properties.Resources.resources
+C:\Users\Eliran Ziv\Desktop\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.csproj.GenerateResource.Cache
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\bin\Debug\3Dfunctions.exe.config
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\bin\Debug\3Dfunctions.exe
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\bin\Debug\3Dfunctions.pdb
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.csprojResolveAssemblyReference.cache
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\MainWindow.g.cs
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\App.g.cs
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions_MarkupCompile.cache
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions_MarkupCompile.lref
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\MainWindow.baml
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.g.resources
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\_3Dfunctions.Properties.Resources.resources
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.csproj.GenerateResource.Cache
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.exe
+C:\Users\Eliran Ziv\Desktop\Utilities\C# Projects\3 Dimensional Function Drawer - WPF\3Dfunctions\obj\Debug\3Dfunctions.pdb
